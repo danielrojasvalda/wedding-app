@@ -2,6 +2,8 @@
 ## Introduction
 Welcome to my proposal for Destify! I'm excited to share my skills and ideas for enhancing your website. My proposal focuses on using Bootstrap 4, HTML5 & CSS3, and integrating Google Maps to create an engaging and user-friendly experience.
 
+github: https://github.com/danielrojasvalda/wedding-app/tree/main/wed-master
+
 For this project, I've based my work on an existing template and improved it to better suit Destify's needs. Additionally, I've optimized the code, reducing five web pages to just one, making the website more efficient and easier to maintain.
 
 ## Skills Showcase
@@ -17,6 +19,8 @@ By integrating Google Maps, I'll provide users with an interactive way to explor
 
 ### Next Steps
 For the next steps, I propose to migrate the existing web page to TypeScript. TypeScript offers static typing and enhanced tooling, which will improve code quality, maintainability, and scalability of the project.
+
+https://github.com/danielrojasvalda/wedding-app/tree/main/my-wedding-app
 
 ### Conclusion
 I believe that my skills in Bootstrap 4, HTML5 & CSS3, and experience with Google Maps integration make me a strong candidate to enhance Destify's website. I look forward to discussing this proposal further and working together to create a fantastic user experience. 
