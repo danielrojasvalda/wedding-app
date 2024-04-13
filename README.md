@@ -1,4 +1,4 @@
-# Destify Proposal
+# Destify Proposal Freddy Rojas
 ## Introduction
 Welcome to my proposal for Destify! I'm excited to share my skills and ideas for enhancing your website. My proposal focuses on using Bootstrap 4, HTML5 & CSS3, and integrating Google Maps to create an engaging and user-friendly experience.
 
